@@ -1,0 +1,12 @@
+.each-link-card {
+  text-decoration: none;
+}
+
+.outer-pagination {
+  width: 100vw;
+  height: 13vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #121212;
+}
